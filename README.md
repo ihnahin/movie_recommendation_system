@@ -6,19 +6,19 @@
 ### 📄 `README.md`:
 
 ```markdown
-# 🎬 Movie Recommendation System (Content-Based)
+ 🎬 Movie Recommendation System (Content-Based)
 
 This is a simple content-based movie recommender system that suggests similar movies based on the description (overview) using TF-IDF and Cosine Similarity.
 
 ---
 
-## 📌 Project Description
+📌 Project Description
 
 Using movie overviews and natural language processing, this project recommends 5 similar movies when you input a movie name. The similarity is calculated using TF-IDF vectors and cosine similarity.
 
 ---
 
-## 🧠 Technologies Used
+🧠 Technologies Used
 
 - Python
 - Pandas
@@ -29,7 +29,7 @@ Using movie overviews and natural language processing, this project recommends 5
 
 ---
 
-## 📊 Dataset
+ 📊 Dataset
 
 The dataset is taken from Kaggle:  
 🔗 [TMDB 5000 Movie Dataset](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
@@ -40,7 +40,7 @@ Files used:
 
 ---
 
-## 🛠️ Steps Performed
+ 🛠️ Steps Performed
 
 1. Loaded and merged movie and credits datasets
 2. Cleaned and preprocessed the data
@@ -50,7 +50,7 @@ Files used:
 
 ---
 
-## ✅ Sample Recommendation
+✅ Sample Recommendation
 
 If you input **"Inception"**, you may get:
 - Interstellar  
@@ -61,7 +61,7 @@ If you input **"Inception"**, you may get:
 
 ---
 
-## 🚀 How to Run the Code
+🚀 How to Run the Code
 
 1. Open the notebook (`movie_recommendation_system.ipynb`) in Google Colab or Jupyter Notebook.
 2. Upload both CSV files when prompted:
@@ -72,7 +72,7 @@ If you input **"Inception"**, you may get:
 
 ---
 
-## 👤 Author
+👤 Author
 
 **Md Ismail Hossain Nahin**  
 Department of CSE  
